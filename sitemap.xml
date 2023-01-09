@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>None</loc>
+         <loc>https://drmus0715.github.io/publish-doc/</loc>
          <lastmod>2023-01-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>None</loc>
+         <loc>https://drmus0715.github.io/publish-doc/mkdocs/</loc>
          <lastmod>2023-01-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>None</loc>
+         <loc>https://drmus0715.github.io/publish-doc/pipenv/</loc>
          <lastmod>2023-01-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>None</loc>
+         <loc>https://drmus0715.github.io/publish-doc/test/</loc>
          <lastmod>2023-01-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
